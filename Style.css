@@ -1,0 +1,22 @@
+.demo{
+    display: flex;
+    justify-content:center;
+    margin-bottom: 20px;
+}
+label{
+    width: 200px; 
+    text-align: left; 
+    margin-right: 10px; 
+}
+input{
+    width: 150px;
+    border: 1px solid;
+    border-radius: 8px;
+    margin-left: 100px;
+}
+button{
+    width: 120px;
+    font-size: large; 
+    cursor: pointer;
+    border-color:black;
+}
